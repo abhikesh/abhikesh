@@ -4,7 +4,7 @@ Here’s a professional yet approachable template for your GitHub profile README
 
 # 👋 Hi, I'm Abhikesh Nag  
 
-Welcome to my GitHub! I'm passionate about **machine learning**, **data science**, and building impactful solutions. As a consultant with [Santa Fe Research](https://yourcompanywebsite.com), I work on innovative projects that bridge cutting-edge technology with real-world applications.  
+Welcome to my GitHub! I'm passionate about **machine learning**, **data science**, and building impactful solutions. As a consultant, I work on innovative projects that bridge cutting-edge technology with real-world applications.  
 
 ---
 
