@@ -1,50 +1,64 @@
-Here’s a professional yet approachable template for your GitHub profile README, tailored to your interests and expertise:
+# 👋 Hi, I'm Abhikesh Nag
+
+**Director, AI @ Assembly Inc.** · ML/AI Leader · Researcher
+
+Machine Learning and AI leader with **18+ years** building and shipping analytical products from inception to production across **healthcare, retail, and beyond**. Flagship products built under my leadership serve **1,000+ hospitals** and enterprise clients, generating tens of millions in annual revenue. Inventor on **12 patents (5 granted)**.
+
+📍 San Diego, CA · ✉️ abhikesh@gmail.com
 
 ---
 
-# 👋 Hi, I'm Abhikesh Nag  
+## 🚀 What I Do
 
-Welcome to my GitHub! I'm passionate about **machine learning**, **data science**, and building impactful solutions. As a consultant, I work on innovative projects that bridge cutting-edge technology with real-world applications.  
-
----
-
-## 🌟 What I Do  
-- **AI & Machine Learning**: Developing state-of-the-art models for **multiclass classification**, leveraging architectures like **ConvNext**.  
-- **Consulting**: Guiding organizations through complex data challenges to uncover actionable insights.  
-- **Project Portfolio**: From healthcare analytics (like the **EyePACS dataset**) to advanced custom solutions for diverse industries.  
+- **Lead AI & data science** strategy and delivery — from product discovery to production — across retail and healthcare.
+- **Build end-to-end ML systems**: deployment & inference infra, large-scale data pipelines, and models that ship.
+- **Architect agentic & LLM systems** — multi-agent orchestration, RAG, and fine-tuning for real-world workflows.
+- **Translate research into revenue** — turning models into products that serve enterprise clients at scale.
 
 ---
 
-## 🔭 Current Projects  
-- 🧠 Training ConvNext models for medical imaging classification.  
-- 🛠️ Building a **McKinsey-style portfolio presentation** to showcase Santa Fe Research's expertise.  
+## 💼 Experience Highlights
+
+- **Assembly Inc.** — *Director, AI* (2024–present): AI/ML consulting across retail & healthcare; built a multi-agent agentic system for insurance payers with short-term, long-term, and shared cross-agent memory.
+- **Salesforce** — *Lead Data Scientist* (2024): Seller analytics across tens of thousands of sellers; large-scale A/B tests and causal analysis quantifying training impact on revenue.
+- **Becton Dickinson (BD)** — *Staff/Principal Data Scientist* (2017–2024): Led **HealthSight™ Diversion Management** (unsupervised ML for opioid-diversion detection, 1,000+ hospitals) and **Clinical Advisor** (NLP/ML on clinical data, 200+ hospitals).
+- **Opera Solutions** — *Senior Staff Scientist / Manager* (2011–2016): Led data science teams in retail & healthcare; marketing personalization for 30M+ customers, recommenders, and revenue-leakage products.
 
 ---
 
-## 📚 Skills & Tools  
-- **Programming**: Python, SQL, Bash  
-- **Frameworks**: PyTorch, TensorFlow, Scikit-learn  
-- **Tools**: Docker, Git, MLflow  
-- **Specialization**: Computer Vision, Natural Language Processing, Data Visualization  
+## 🧠 Skills & Tools
+
+**Core ML / DL** · PyTorch · TensorFlow · JAX · scikit-learn · transformers/attention · fine-tuning · RAG · distributed training · model optimization
+
+**Production / MLOps** · Kubernetes · Docker · model serving · CI/CD · MLOps · feature stores · model monitoring · A/B testing · latency/throughput optimization
+
+**Infrastructure & Scale** · Distributed systems · Spark · Ray · GPU/TPU training · CUDA · AWS SageMaker · GCP Vertex AI · Azure ML · Airflow · Kafka
+
+**Domain Depth** · NLP · Computer Vision · Recommenders · Anomaly/Fraud Detection · Time-Series Forecasting
+
+**Languages** · Python · C · C++ · CUDA · Scala · R · Java
 
 ---
 
-## 🚀 Recent Highlights  
-- Successfully implemented deep learning solutions to analyze medical imagery.  
-- Presented impactful AI strategies to clients, ensuring measurable ROI.  
+## 🔬 Current Focus
+
+- 📚 Research at the intersection of **program synthesis, diffusion models, and reasoning**.
+- 🤖 Building agentic, multi-agent systems and LLM applications for enterprise workflows.
 
 ---
 
-## 💬 Let's Connect  
-Feel free to reach out if you're interested in collaborating, discussing machine learning, or just geeking out about tech!  
-- 🌐 [Website](https://yourwebsite.com)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
+## 🏆 Recognition
+
+- 🥇 **2019 Wesley J. Howe Science & Technology Award** (Becton Dickinson) — technical contribution & business impact.
+- 🥇 **2012 Opera Solutions Technology & Analytics Innovation Award**.
+- 📄 Inventor on **12 patents** (5 granted) spanning ML safety, anomaly detection, recommender systems, and clinical data extraction.
 
 ---
 
-### 🌱 *"Always learning, always growing!"*
+## 💬 Let's Connect
+
+- ✉️ [abhikesh@gmail.com](mailto:abhikesh@gmail.com)
 
 ---
 
-You can customize the template further with emojis, images, or project links to make it uniquely yours. Let me know if you'd like help with that!
+<sub>*Always learning, always building.*</sub>
